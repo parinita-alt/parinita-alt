@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Parinita Vinod
 - 👀 I’m interested in Cloud Computing, DevSecOps, Cloud Migration 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, Statistics, Machine Learning
 
 <!---
 parinita-alt/parinita-alt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
